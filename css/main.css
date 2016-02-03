@@ -1,0 +1,75 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+header{
+ 	background-image: url(../img/grupal.jpg);
+ 	height: 718px;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.boton-Sumate{
+	margin-top: 50px;
+	text-align: center;
+	background-color: #FCB739;
+	padding: 15px 25px;
+	position: fixed;
+	z-index: 1;
+}
+.logo{
+	width: 100%;
+	margin-top: 50px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 62px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px;
+}
+nav li:hover a{
+	background-color: #FCB739;
+}
+nav a:hover{
+	color:black;
+}
+section img{
+	width: 100%;
+}
+section a:hover{
+	color: #FCB739;
+}
+hr{
+	border: 1px solid black;
+}
+section{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+footer{
+	padding-top: 20px;
+	padding-bottom: 30px;
+	background-color: rgb(50, 50, 48);
+	color: white;
+}
+.text-left{
+	text-align: left;
+}
+.skypeicon{
+	width: 16px;
+}
+footer span{
+	color: DeepSkyBlue;
+}
